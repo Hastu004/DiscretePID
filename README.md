@@ -69,6 +69,17 @@ DiscretePID/
 
 ## Installation
 
+### Arduino Library Manager
+
+After the library is accepted into the Arduino Library Manager registry:
+
+1. Open Arduino IDE.
+2. Go to `Sketch > Include Library > Manage Libraries...`
+3. Search for `DiscretePID`.
+4. Click `Install`.
+
+### Manual installation
+
 1. Download or clone this repository.
 2. Rename the folder to `DiscretePID` if needed.
 3. Copy it into your Arduino libraries directory.
